@@ -1,4 +1,4 @@
-//the examle of using 'if' and 'switch' conditions in Java
+//the example of using 'if' and 'switch' conditions in Java
 
 public class Conditionals {
 	public static void main(String[] args) {
